@@ -1,9 +1,41 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Lời dẫn
+    chapters:
+      - file: 01-loi-dan
+  - caption: Bối cảnh làm việc ở Hàn
+    chapters:
+      - file: 02-boi-canh/1-khac-biet-van-hoa
+      - file: 02-boi-canh/2-he-sinh-thai-cong-viec
+      - file: 02-boi-canh/3-loai-hinh-cong-ty/3-1-tap-doan-lon
+      - file: 02-boi-canh/3-loai-hinh-cong-ty/3-2-doanh-nghiep-vua-va-nho
+      - file: 02-boi-canh/3-loai-hinh-cong-ty/3-3-startup
+  - caption: Chuẩn bị
+    chapters:
+      - file: 03-chuan-bi/1-ngon-ngu-giao-tiep
+      - file: 03-chuan-bi/2-cv-va-portfolio
+      - file: 03-chuan-bi/3-kinh-nghiem-thuc-tap
+      - file: 03-chuan-bi/4-chuan-bi-tam-li
+  - caption: Ứng tuyển
+    chapters:
+      - file: 04-ung-tuyen/1-tim-viec/1-1-kenh-tim-viec
+      - file: 04-ung-tuyen/1-tim-viec/1-2-chon-cong-ty-phu-hop
+      - file: 04-ung-tuyen/2-phong-van/2-1-cau-hoi-thuong-gap
+      - file: 04-ung-tuyen/2-phong-van/2-2-phong-thai-phong-van
+      - file: 04-ung-tuyen/3-hau-phong-van/3-1-thu-cam-on
+      - file: 04-ung-tuyen/3-hau-phong-van/3-2-thuong-luong-luong
+  - caption: Sinh hoạt và làm việc
+    chapters:
+      - file: 05-sinh-hoat-va-lam-viec/1-van-hoa-cong-so
+      - file: 05-sinh-hoat-va-lam-viec/2-moi-quan-he-voi-dong-nghiep
+      - file: 05-sinh-hoat-va-lam-viec/3-bao-hiem-va-che-do-phuc-loi
+      - file: 05-sinh-hoat-va-lam-viec/4-phong-cach-song
+  - caption: Case studies
+    chapters:
+      - file: 06-case-studies/1-ftu-ke-toan-welling
+      - file: 06-case-studies/2-hanu-han-quoc-hoc-sanova
+      - file: 06-case-studies/3-hust-ky-thuat-abc
+      - file: 06-case-studies/4-uet-ai-newtech
+      - file: 06-case-studies/5-ktqd-marketing-hans
+      - file: 06-case-studies/6-ulis-quan-he-doi-ngoai-xyz
