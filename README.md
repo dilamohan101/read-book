@@ -1,6 +1,11 @@
 # 📘 Đi làm ở Hàn 101 – Cẩm nang thực tế cho người Việt
 
-[![Jupyter Book](assets/img/home1-img.png)](assets/img/home1-img.png)
+<p align="center">
+  <a href="assets/img/home1-img.png">
+    <img src="assets/img/home1-img.png" alt="Book-cover" width="300"/>
+  </a>
+</p>
+
 
 **“Đi làm ở Hàn 101”** là một cuốn sách điện tử (Jupyter Book) được biên soạn bởi cộng đồng **The Viet ALUNET** — mạng lưới cựu sinh viên – sinh viên người Việt tại Hàn Quốc và trên toàn thế giới.
 
