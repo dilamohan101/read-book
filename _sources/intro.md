@@ -6,6 +6,10 @@ Cuốn sách này là tập hợp kinh nghiệm thực tiễn, lời khuyên h�
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dilamohan101/dilamohan101.github.io/refs/heads/main/assets/img/home1-img.png" alt="Học bổng Hàn Quốc 101" width="300">
+</p>
+
 ## Cuốn sách này dành cho ai?
 
 - Sinh viên mới tốt nghiệp đang tìm kiếm cơ hội tại Hàn Quốc
